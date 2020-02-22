@@ -1,3 +1,6 @@
+<?php
+    echo "Hello World";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,5 +11,6 @@
 </head>
 <body>
     <h1>Biodata Saya</h1>
+    <h1>Jangan ada yang ganti ya</h1>
 </body>
 </html>
